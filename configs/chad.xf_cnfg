@@ -1,0 +1,161 @@
+{
+   "ui_settings" : {
+      "components" : {
+         "background" : {
+            "alpha" : 255,
+            "blue" : 107,
+            "green" : 107,
+            "red" : 107
+         },
+         "notify_text" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         },
+         "scroller" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41,
+            "smoothness" : 2
+         },
+         "subtitle_text" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         }
+      },
+      "footer" : {
+         "box" : {
+            "alpha" : 255,
+            "blue" : 107,
+            "green" : 107,
+            "red" : 107
+         },
+         "line" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41
+         }
+      },
+      "header" : {
+         "box" : {
+            "alpha" : 255,
+            "blue" : 107,
+            "green" : 107,
+            "red" : 107
+         },
+         "custom_name" : "C:/X-Folder/textures/cordcvyru9r81.jpg",
+         "gif_delay" : 5,
+         "gif_index" : 0,
+         "image_index" : 0,
+         "line" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41
+         },
+         "type" : 2
+      },
+      "keyboard" : {
+         "background" : {
+            "alpha" : 175,
+            "blue" : 0,
+            "green" : 0,
+            "red" : 0
+         },
+         "font" : 0,
+         "line" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41
+         }
+      },
+      "keyboard_x" : 0.5,
+      "keyboard_y" : 0.75,
+      "max_options" : 14,
+      "notify_right" : false,
+      "notify_x" : 0,
+      "notify_y" : 0,
+      "pos_x" : 0.68599998950958252,
+      "pos_y" : 0.15299999713897705,
+      "show_warning" : true,
+      "show_watermark" : true,
+      "size" : {
+         "header_y" : 0.19299998879432678,
+         "multiplier" : 0.97099864482879639,
+         "option_size_x" : 0.23800003528594971,
+         "option_size_y" : 0.028000000864267349
+      },
+      "text" : {
+         "selected" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         },
+         "sub_name" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         },
+         "text_size_x" : 0.31000000238418579,
+         "text_size_y" : 0.289000004529953,
+         "unselected" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         },
+         "version" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         }
+      },
+      "windows" : {
+         "background" : {
+            "alpha" : 180,
+            "blue" : 0,
+            "green" : 0,
+            "red" : 0
+         },
+         "collapsed" : {
+            "alpha" : 150,
+            "blue" : 112,
+            "green" : 140,
+            "red" : 39
+         },
+         "scrollbar" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41
+         },
+         "scroller" : {
+            "alpha" : 255,
+            "blue" : 41,
+            "green" : 41,
+            "red" : 41
+         },
+         "text" : {
+            "alpha" : 255,
+            "blue" : 255,
+            "green" : 255,
+            "red" : 255
+         },
+         "title" : {
+            "alpha" : 255,
+            "blue" : 107,
+            "green" : 107,
+            "red" : 107
+         }
+      }
+   }
+}
